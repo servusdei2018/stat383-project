@@ -15,22 +15,22 @@ These dependencies may be installed by running the `dependencies.R` script.
 ## Getting Started
 
 1. Clone the repository
-  ```bash
-  git clone https://github.com/servusdei2018/stat383-project.git
-  cd stat383-project
-  ```
+    ```bash
+    git clone https://github.com/servusdei2018/stat383-project.git
+    cd stat383-project
+    ```
 
 2. Load the RStudio Project: Open `stat383-project.Rproj` in RStudio to set up the project environment.
 
 3. Run the Analysis
   - To preprocess the data and generate the expanded dataset, run:
-  ```R
-  source("expand_data.R")
-  ```
+    ```R
+    source("expand_data.R")
+    ```
   - To perform statistical analysis and create visualizations, run:
-  ```R
-  source("stats.R")
-  ```
+    ```R
+    source("stats.R")
+    ```
 
 4. Visualize the Results
   - View the pie charts for vote distributions:
