@@ -1,4 +1,4 @@
-# STAT383 Project: Student Voting Behavior in the 2024 Election Cycle
+# STAT383 Project: Clarkson University Student Voting Behavior in the 2024 Election Cycle
 
 This repository contains the code and data used for our STAT383 project at Clarkson University, which analyzes generational differences in voting behavior among undergraduate students. The study explores the voting preferences of students, compares them to inferred parental voting behaviors, and contrasts these findings with state- and national-level polling data for the 2024 election cycle.
 
@@ -52,7 +52,7 @@ Please cite our paper if you use this code or part of it in your work:
 
 ```bibtex
 @misc{bracy2024studentvoting,
-      title={Student Voting Behavior in the 2024 Election Cycle},
+      title={Clarkson University Student Voting Behavior in the 2024 Election Cycle},
       author={Nathanael Bracy and Joseph Kerekes and Megan Zalepeski and Ethan Jansen},
       year={2024},
       url={https://github.com/servusdei2018/stat383-project},
